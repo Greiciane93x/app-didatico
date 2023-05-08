@@ -1,0 +1,17 @@
+[
+	{
+		"data": {
+			"id": "31dw23j60s",
+			"title": "Initial blog post",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+			"previewImageUrl": null,
+			"tags": ["Software", "UI/UX", "3D art", "Article"]
+		},
+		"_links": {
+			"blogPostContent": {
+				"method": "GET",
+				"path": "/data/blog-posts/31dw23j60s.md"
+			}
+		}
+	}
+]
